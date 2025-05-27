@@ -29,4 +29,4 @@ is_nullable,
 character_maximum_length
 from INFORMATION_SCHEMA.COLUMNS
 
-where table_name = "..." -- to specify which table to explore 
+where table_name = '...' -- to specify which table to explore 
