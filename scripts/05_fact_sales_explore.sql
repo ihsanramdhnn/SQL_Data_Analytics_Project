@@ -1,4 +1,15 @@
+/*
+===============================================================================
+Sales Table Exploration 
+===============================================================================
+Purpose:
+    - To explore all dimension columns in sales table.
+    - Understanding more information in each dimension colums.
 
+SQL Functions Used:
+    - MIN(), MAX(), DATEDIFF()
+===============================================================================
+*/
 
 -- dim in sales table
 select * from gold.fact_sales
